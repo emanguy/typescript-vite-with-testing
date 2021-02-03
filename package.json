@@ -35,6 +35,6 @@
       "^.+\\.tsx?$": "ts-jest"
     },
     "testURL": "http://localhost",
-    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$"
+    "testRegex": "tests/.*\\.(jsx?|tsx?)$"
   }
 }
